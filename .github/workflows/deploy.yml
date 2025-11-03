@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DO_NOT_TRACK: true
-      KEDRO_POLIS_URL: https://pol.is/report/r29kkytnipymd3exbynkd
+      KEDRO_POLIS_URL: https://pol.is/report/r9k7us4bnttfmfr9czfa5
     steps:
       - name: Fetch the repository
         uses: actions/checkout@v4
