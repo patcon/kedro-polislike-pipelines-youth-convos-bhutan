@@ -1,0 +1,10 @@
+- [ ] mask out mod-out statements
+- [ ] filter out below-vote-threshold participants
+- [x] add BestKMeans estimator
+- [ ] add HDBSCANFlat estimator
+- [ ] add BestHDBSCANFlat estimator
+- [ ] add SparsityAwareScaler estimator
+- [ ] fix `mean_pacmap_besthdbscanflat`
+- [ ] fix `mean_localmap_besthdbscanflat_eom`
+- [ ] fix `mean_localmap_besthdbscanflat_leaf`
+- [ ] get `polis_id` parameter showing in deployed github pages website (currently missing)
